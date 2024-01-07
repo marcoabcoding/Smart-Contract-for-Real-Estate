@@ -1,6 +1,6 @@
 class RealEstateContract:
     """
-    A simplified smart contract for real estate transactions.
+    A smart contract for real estate transactions.
     Manages the process between a buyer and a seller for property transfer.
     """
     def __init__(self):
